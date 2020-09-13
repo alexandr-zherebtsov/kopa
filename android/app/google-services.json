@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "936193239119",
+    "firebase_url": "https://kopa-6e315.firebaseio.com",
+    "project_id": "kopa-6e315",
+    "storage_bucket": "kopa-6e315.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936193239119:android:820b93c439cebf7ee4223a",
+        "android_client_info": {
+          "package_name": "com.example.kopa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936193239119-9vgcgbs132brs6hverrj820pet2n79hl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kopa",
+            "certificate_hash": "244a99ec91d0035d24f3adb2bdf850bb4efd3366"
+          }
+        },
+        {
+          "client_id": "936193239119-pntqokj8nlfg6dudk4pab216i3beokth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCJai1XxXcPC4HmBfj8EZ79qs6x--XWac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936193239119-pntqokj8nlfg6dudk4pab216i3beokth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
